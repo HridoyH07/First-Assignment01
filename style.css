@@ -1,0 +1,25 @@
+/* common shared styles*/
+
+body {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+/* header Releted Style */
+
+.header {
+    background-color: rgba(229, 84, 115, 0.10);
+    ;
+}
+
+.banner {
+    padding: 35px 35px 0px 150px;
+    display: flex;
+    align-items: center;
+}
+
+.profile-pic {
+    width: 635px;
+    height: 800px;
+}
